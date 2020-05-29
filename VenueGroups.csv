@@ -1,0 +1,263 @@
+Venue Category,Venue Group
+Egyptian Restaurant,African Cuisine
+Ethiopian Restaurant,African Cuisine
+Airport,Airport-Related
+Airport Service,Airport-Related
+Airport Terminal,Airport-Related
+American Restaurant,American Cuisine
+Cafe,American Cuisine
+Comfort Food Restaurant,American Cuisine
+Diner,American Cuisine
+New American Restaurant,American Cuisine
+Restaurant,American Cuisine
+Salad Place,American Cuisine
+Steakhouse,American Cuisine
+Antique Shop,Art/Antiques
+Art Gallery,Art/Antiques
+Opera House,Arts/Entertainment
+Performing Arts Venue,Arts/Entertainment
+Sculpture Garden,Arts/Entertainment
+Asian Restaurant,Asian Cuisine
+Chinese Restaurant,Asian Cuisine
+Indian Restaurant,Asian Cuisine
+Japanese Restaurant,Asian Cuisine
+Korean Restaurant,Asian Cuisine
+Noodle House,Asian Cuisine
+Persian Restaurant,Asian Cuisine
+Sushi Restaurant,Asian Cuisine
+Thai Restaurant,Asian Cuisine
+Vietnamese Restaurant,Asian Cuisine
+Bike Rental / Bike Share,Athletic Store
+Disc Golf,Athletic Store
+Sporting Goods Shop,Athletic Store
+Athletics & Sports,Athletic Venue
+Baseball Field,Athletic Venue
+Basketball Court,Athletic Venue
+Bowling Alley,Athletic Venue
+College Stadium,Athletic Venue
+Football Stadium,Athletic Venue
+Golf Course,Athletic Venue
+Martial Arts Dojo,Athletic Venue
+Pool,Athletic Venue
+Recreation Center,Athletic Venue
+Skating Rink,Athletic Venue
+Soccer Field,Athletic Venue
+Tennis Court,Athletic Venue
+Track,Athletic Venue
+Volleyball Court,Athletic Venue
+Auto Garage,Automotive Venue
+Auto Workshop,Automotive Venue
+Automotive Shop,Automotive Venue
+Bookstore,Bookstore
+College Bookstore,Bookstore
+Bar,Drinking Establishment
+Beer Bar,Drinking Establishment
+Beer Garden,Drinking Establishment
+Brewery,Drinking Establishment
+Cocktail Bar,Drinking Establishment
+Dive Bar,Drinking Establishment
+Gay Bar,Drinking Establishment
+Hotel Bar,Drinking Establishment
+Lounge,Drinking Establishment
+Nightclub,Drinking Establishment
+Nightlife Spot,Drinking Establishment
+Pub,Drinking Establishment
+Sports Bar,Drinking Establishment
+Wine Bar,Drinking Establishment
+Aquarium,Entertainment Venue
+Arcade,Entertainment Venue
+General Entertainment,Entertainment Venue
+Movie Theater,Entertainment Venue
+Multiplex,Entertainment Venue
+Music Venue,Entertainment Venue
+Pool Hall,Entertainment Venue
+Rock Club,Entertainment Venue
+Roof Deck,Entertainment Venue
+Theater,Entertainment Venue
+Theme Park Ride / Attraction,Entertainment Venue
+Theme Restaurant,Entertainment Venue
+Water Park,Entertainment Venue
+Bagel Shop,Fast-Food Venue
+Bakery,Fast-Food Venue
+BBQ Joint,Fast-Food Venue
+Burger Joint,Fast-Food Venue
+Coffee Shop,Fast-Food Venue
+Cupcake Shop,Fast-Food Venue
+Deli / Bodega,Fast-Food Venue
+Dessert Shop,Fast-Food Venue
+Donut Shop,Fast-Food Venue
+Fast Food Restaurant,Fast-Food Venue
+Food & Drink Shop,Fast-Food Venue
+Food Truck,Fast-Food Venue
+Fried Chicken Joint,Fast-Food Venue
+Frozen Yogurt Shop,Fast-Food Venue
+Hot Dog Joint,Fast-Food Venue
+Ice Cream Shop,Fast-Food Venue
+Juice Bar,Fast-Food Venue
+Pizza Place,Fast-Food Venue
+Sandwich Place,Fast-Food Venue
+Smoothie Shop,Fast-Food Venue
+Snack Place,Fast-Food Venue
+Wings Joint,Fast-Food Venue
+Bank,Financial Services
+Check Cashing Service,Financial Services
+Financial or Legal Service,Financial Services
+Insurance Office,Financial Services
+Bistro,French Cuisine
+French Restaurant,French Cuisine
+Food,Grocery Store
+Gourmet Shop,Grocery Store
+Grocery Store,Grocery Store
+Supermarket,Grocery Store
+Boxing Gym,Gym
+Gym,Gym
+Gym / Fitness Center,Gym
+Gym Pool,Gym
+Gymnastics Gym,Gym
+Chiropractor,Health Services
+Doctor's Office,Health Services
+Pharmacy,Health Services
+Construction & Landscaping,Home Service
+Home Service,Home Service
+Locksmith,Home Service
+Other Repair Shop,Home Service
+Carpet Store,Home Shop
+Frame Store,Home Shop
+Furniture / Home Store,Home Shop
+Hardware Store,Home Shop
+Kitchen Supply Store,Home Shop
+Mattress Store,Home Shop
+Italian Restaurant,Italian Cuisine
+Liquor Store,Liquor Store
+Wine Shop,Liquor Store
+Bed & Breakfast,Lodging
+Hotel,Lodging
+Motel,Lodging
+Mediterranean Restaurant,Mediterranean Cuisine
+Middle Eastern Restaurant,Mediterranean Cuisine
+Burrito Place,Mexican Cuisine
+Mexican Restaurant,Mexican Cuisine
+Taco Place,Mexican Cuisine
+Tex-Mex Restaurant,Mexican Cuisine
+Art Museum,Museum
+History Museum,Museum
+Museum,Museum
+Record Shop,Music Store
+Botanical Garden,Outdoor Destination
+Campground,Outdoor Destination
+Lake,Outdoor Destination
+Mountain,Outdoor Destination
+Other Great Outdoors,Outdoor Destination
+Hunting Supply,Outdoor Store
+Nail Salon,Personal Services
+Salon / Barbershop,Personal Services
+Tanning Salon,Personal Services
+Pet Service,Pet Service
+Pet Store,Pet Service
+Lawyer,Professional Services
+Notary,Professional Services
+Seafood Restaurant,Seafood Restaurant
+Accessories Store,Shopping Store
+Big Box Store,Shopping Store
+Boutique,Shopping Store
+Bridal Shop,Shopping Store
+Clothing Store,Shopping Store
+Cosmetics Shop,Shopping Store
+Department Store,Shopping Store
+Discount Store,Shopping Store
+Gift Shop,Shopping Store
+Men's Store,Shopping Store
+Shoe Store,Shopping Store
+Shopping Mall,Shopping Store
+Thrift / Vintage Store,Shopping Store
+Women's Store,Shopping Store
+Latin American Restaurant,South American Cuisine
+Peruvian Restaurant,South American Cuisine
+Salvadoran Restaurant,South American Cuisine
+Bus Station,Transportation Venue
+Adult Boutique,Adult Boutique
+Arts & Crafts Store,Arts & Crafts Store
+Astrologer,Astrologer
+Boat or Ferry,Boat or Ferry
+Breakfast Spot,Breakfast Spot
+Bridge,Bridge
+Bubble Tea Shop,Bubble Tea Shop
+Business Service,Business Service
+Cable Car,Cable Car
+Cajun / Creole Restaurant,Cajun / Creole Restaurant
+Camera Store,Camera Store
+Candy Store,Candy Store
+Caribbean Restaurant,Caribbean Restaurant
+Chocolate Shop,Chocolate Shop
+Comic Shop,Comic Shop
+Community Center,Community Center
+Concert Hall,Concert Hall
+Convenience Store,Convenience Store
+Dance Studio,Dance Studio
+Design Studio,Design Studio
+Dog Run,Dog Run
+Dry Cleaner,Dry Cleaner
+Electronics Store,Electronics Store
+Event Service,Event Service
+Event Space,Event Space
+Factory,Factory
+Farm,Farm
+Farmers Market,Farmers Market
+Field,Field
+Flea Market,Flea Market
+Floating Market,Floating Market
+Flower Shop,Flower Shop
+Gaming Cafe,Gaming Cafe
+Garden,Garden
+Garden Center,Garden Center
+Gas Station,Gas Station
+Gun Shop,Gun Shop
+Harbor / Marina,Harbor / Marina
+Hawaiian Restaurant,Hawaiian Restaurant
+Health & Beauty Service,Health & Beauty Service
+Health Food Store,Health Food Store
+Historic Site,Historic Site
+Hookah Bar,Hookah Bar
+Indoor Play Area,Indoor Play Area
+Internet Cafe,Internet Cafe
+Intersection,Intersection
+IT Services,IT Services
+Jewelry Store,Jewelry Store
+Laundromat,Laundromat
+Light Rail Station,Light Rail Station
+Lighthouse,Lighthouse
+Massage Studio,Massage Studio
+Miscellaneous Shop,Miscellaneous Shop
+Mobile Phone Shop,Mobile Phone Shop
+Monument / Landmark,Monument / Landmark
+Motorcycle Shop,Motorcycle Shop
+Moving Target,Moving Target
+Music Store,Music Store
+Optical Shop,Optical Shop
+Paper / Office Supplies Store,Paper / Office Supplies Store
+Park,Park
+Pawn Shop,Pawn Shop
+Photography Studio,Photography Studio
+Playground,Playground
+Plaza,Plaza
+Recording Studio,Recording Studio
+Rental Car Location,Rental Car Location
+Rental Service,Rental Service
+River,River
+Road,Road
+Scenic Lookout,Scenic Lookout
+Shipping Store,Shipping Store
+Smoke Shop,Smoke Shop
+Southern / Soul Food Restaurant,Southern / Soul Food Restaurant
+Spa,Spa
+Supplement Shop,Supplement Shop
+Taxi Stand,Taxi Stand
+Tea Room,Tea Room
+Trail,Trail
+Tree,Tree
+Vegetarian / Vegan Restaurant,Vegetarian / Vegan Restaurant
+Video Game Store,Video Game Store
+Video Store,Video Store
+Weight Loss Center,Weight Loss Center
+Yoga Studio,Yoga Studio
+Zoo Exhibit,Zoo Exhibit
